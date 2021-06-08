@@ -18,16 +18,16 @@ The code for my sumo bot, a project for my TEJ2OI tech course in grade 10.
 
 Top Side:
 
-![Top side](SumoBotImgs/SumoBot1.jpeg?raw=true)
+![Top side](SumoBotImgs/SumoBot1.jpeg)
 
 Under Side:
 
-![Under side](https://github.com/anshrchrl/SumoBot/blob/master/SumoBotImgs/SumoBot2.jpeg?raw=true)
+![Under side](SumoBotImgs/SumoBot2.jpeg)
 
 Right Side:
 
-![Right side](https://github.com/anshrchrl/SumoBot/blob/master/SumoBotImgs/SumoBot3.jpeg?raw=true)
+![Right side](SumoBotImgs/SumoBot3.jpeg)
 
 Left Side:
 
-![Left side](https://github.com/anshrchrl/SumoBot/blob/master/SumoBotImgs/SumoBot4.jpeg?raw=true)
+![Left side](SumoBotImgs/SumoBot4.jpeg)
