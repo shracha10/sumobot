@@ -18,7 +18,7 @@ The code for my sumo bot, a project for my TEJ2OI tech course in grade 10.
 
 Top Side:
 
-![Top side](https://github.com/anshrchrl/SumoBot/blob/master/SumoBotImgs/SumoBot1.jpeg?raw=true)
+![Top side](SumoBotImgs/SumoBot1.jpeg?raw=true)
 
 Under Side:
 
