@@ -45,6 +45,8 @@
 #define H2			RC0			// External I/O header H2
 #define LCDE		RC0			// LCD Enable output
 #define SERVO1		RC0			// Servo 1 output (external header H2)
+#define TRIG        RC0         // Sonar Trigger
+#define ECHO        RC1         // Sonar Echo
 #define H3			RC1			// External I/O header H3
 #define LCDRW		RC1			// LCD Read/!Write output
 #define	SERVO2		RC1			// Servo 2 output (external header H3)

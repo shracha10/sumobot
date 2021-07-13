@@ -37,6 +37,42 @@ const char attack = 1;
 const char attackSearch;
 //const char attackSearchLeft = 3;
 
+//From Ashish's code
+/*==============================================================================
+	Motor direction constant definitions
+ =============================================================================*/
+//MOTORS have this structure 0b0000LEFTLEFTRIGHTRIGHT
+//last 4 bits: back of left wheel, front of left wheel, front right wheel, back of right wheel
+/*
+#define STOP		0b00000000	// Both motors stopped
+#define FWD			0b00001001	// Both motors forward
+#define REV			0b00000110	// Both motors reverse
+#define LEFTFWD     0b00000010	// Right motor forward, left motor stopped
+#define RIGHTFWD	0b00000100	// Left motor forward, right motor stopped
+#define LEFT		0b00001010	// Right motor forward, left motor reversed
+#define RIGHT		0b00000101	// Left motor forward, right motor reversed
+#define	RIGHTREV	0b00001000	// Left motor reversed, right motor stopped
+#define	LEFTREV		0b00000001	// Right motor reversed, left motor stopped
+*/
+
+//Also from Ashish's code
+/*==============================================================================
+ BEEP
+ =============================================================================*/
+/*
+void beep(unsigned char period, unsigned char cycles)
+{
+	unsigned char i;
+	unsigned char t;
+	for (i = cycles; i != 0; i --)		// number of beeper pin output flips
+	{
+		BEEPER = !BEEPER;				// flip beeper pin and
+		for (t = period; t != 0; t --);	// wait for period to end
+	}
+}
+*/
+
+//Back to my original code
 /*==============================================================================
     Program variable definitions. Variables can be assigned before compilation
     and can also be changed while the program is running.
